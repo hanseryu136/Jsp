@@ -6,7 +6,7 @@
 		<title>2_if</title>
 	</head>
 	<body>
-		<h3>2.조건문</h3>
+		<h3>2. 조건문</h3>
 		
 		<h4>if</h4>
 		<%
